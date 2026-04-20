@@ -1,0 +1,5722 @@
+{
+  "653083797763522580": {
+    "protections": {
+      "스팸 감지": false,
+      "도배 방지": false,
+      "링크 차단": false,
+      "관리자 권한 부여 차단": false,
+      "채널 대량 생성 방지": false,
+      "채널 대량 삭제 방지": false,
+      "역할 대량 생성 방지": false,
+      "역할 대량 삭제 방지": false,
+      "레이드 감지": false,
+      "대량 멘션 감지": false,
+      "@everyone/@here 방지": false,
+      "개인정보 차단": false
+    },
+    "punishment": {
+      "types": [
+        "DM 경고"
+      ],
+      "criteria": {
+        "스팸 감지": {
+          "count": 10,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "도배 방지": {
+          "count": 7,
+          "seconds": 5,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "링크 차단": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "관리자 권한 부여 차단": {
+          "count": 1,
+          "seconds": 60,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "채널 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "채널 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "레이드 감지": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "대량 멘션 감지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "@everyone/@here 방지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "개인정보 차단": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        }
+      }
+    },
+    "verification": {
+      "enabled": false,
+      "captcha_channel": null,
+      "verified_role": null
+    },
+    "log_channel": null,
+    "protect_log_channel": null,
+    "warn_log_channel": null,
+    "punishment_log_channel": null,
+    "notification_channel": null,
+    "warnings": {},
+    "punishments": {},
+    "whitelist": {
+      "channels": [],
+      "roles": [],
+      "members": []
+    },
+    "exempt_admins": false
+  },
+  "1425849868534022260": {
+    "protections": {
+      "스팸 감지": false,
+      "도배 방지": false,
+      "링크 차단": false,
+      "관리자 권한 부여 차단": false,
+      "채널 대량 생성 방지": false,
+      "채널 대량 삭제 방지": false,
+      "역할 대량 생성 방지": false,
+      "역할 대량 삭제 방지": false,
+      "레이드 감지": false,
+      "대량 멘션 감지": false,
+      "@everyone/@here 방지": false,
+      "개인정보 차단": false
+    },
+    "punishment": {
+      "types": [
+        "DM 경고"
+      ],
+      "criteria": {
+        "스팸 감지": {
+          "count": 10,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "도배 방지": {
+          "count": 7,
+          "seconds": 5,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "링크 차단": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "관리자 권한 부여 차단": {
+          "count": 1,
+          "seconds": 60,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "채널 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "채널 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "레이드 감지": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "대량 멘션 감지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "@everyone/@here 방지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "개인정보 차단": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        }
+      }
+    },
+    "verification": {
+      "enabled": false,
+      "captcha_channel": null,
+      "verified_role": null
+    },
+    "log_channel": null,
+    "protect_log_channel": null,
+    "warn_log_channel": null,
+    "punishment_log_channel": null,
+    "notification_channel": 1494334705200271593,
+    "warnings": {},
+    "punishments": {},
+    "whitelist": {
+      "channels": [],
+      "roles": [],
+      "members": []
+    },
+    "exempt_admins": false
+  },
+  "1397950797907624091": {
+    "protections": {
+      "스팸 감지": false,
+      "도배 방지": false,
+      "링크 차단": false,
+      "관리자 권한 부여 차단": false,
+      "채널 대량 생성 방지": false,
+      "채널 대량 삭제 방지": false,
+      "역할 대량 생성 방지": false,
+      "역할 대량 삭제 방지": false,
+      "레이드 감지": false,
+      "대량 멘션 감지": false,
+      "@everyone/@here 방지": false,
+      "개인정보 차단": false
+    },
+    "punishment": {
+      "types": [
+        "DM 경고"
+      ],
+      "criteria": {
+        "스팸 감지": {
+          "count": 10,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "도배 방지": {
+          "count": 7,
+          "seconds": 5,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "링크 차단": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "관리자 권한 부여 차단": {
+          "count": 1,
+          "seconds": 60,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "채널 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "채널 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "레이드 감지": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "대량 멘션 감지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "@everyone/@here 방지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "개인정보 차단": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        }
+      }
+    },
+    "verification": {
+      "enabled": false,
+      "captcha_channel": null,
+      "verified_role": null
+    },
+    "log_channel": null,
+    "protect_log_channel": null,
+    "warn_log_channel": null,
+    "punishment_log_channel": null,
+    "notification_channel": 1494334706836176970,
+    "warnings": {},
+    "punishments": {},
+    "whitelist": {
+      "channels": [],
+      "roles": [],
+      "members": []
+    },
+    "exempt_admins": false
+  },
+  "1475460498328649899": {
+    "protections": {
+      "스팸 감지": false,
+      "도배 방지": false,
+      "링크 차단": false,
+      "관리자 권한 부여 차단": false,
+      "채널 대량 생성 방지": false,
+      "채널 대량 삭제 방지": false,
+      "역할 대량 생성 방지": false,
+      "역할 대량 삭제 방지": false,
+      "레이드 감지": false,
+      "대량 멘션 감지": false,
+      "@everyone/@here 방지": false,
+      "개인정보 차단": false
+    },
+    "punishment": {
+      "types": [
+        "DM 경고"
+      ],
+      "criteria": {
+        "스팸 감지": {
+          "count": 10,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "도배 방지": {
+          "count": 7,
+          "seconds": 5,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "링크 차단": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "관리자 권한 부여 차단": {
+          "count": 1,
+          "seconds": 60,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "채널 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "채널 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "레이드 감지": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "대량 멘션 감지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "@everyone/@here 방지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "개인정보 차단": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        }
+      }
+    },
+    "verification": {
+      "enabled": false,
+      "captcha_channel": null,
+      "verified_role": null
+    },
+    "log_channel": null,
+    "protect_log_channel": null,
+    "warn_log_channel": null,
+    "punishment_log_channel": null,
+    "notification_channel": 1494334708446662657,
+    "warnings": {},
+    "punishments": {},
+    "whitelist": {
+      "channels": [],
+      "roles": [],
+      "members": []
+    },
+    "exempt_admins": false
+  },
+  "1422140079958130711": {
+    "protections": {
+      "스팸 감지": false,
+      "도배 방지": false,
+      "링크 차단": false,
+      "관리자 권한 부여 차단": false,
+      "채널 대량 생성 방지": false,
+      "채널 대량 삭제 방지": false,
+      "역할 대량 생성 방지": false,
+      "역할 대량 삭제 방지": false,
+      "레이드 감지": false,
+      "대량 멘션 감지": false,
+      "@everyone/@here 방지": false,
+      "개인정보 차단": false
+    },
+    "punishment": {
+      "types": [
+        "DM 경고"
+      ],
+      "criteria": {
+        "스팸 감지": {
+          "count": 10,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "도배 방지": {
+          "count": 7,
+          "seconds": 5,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "링크 차단": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "관리자 권한 부여 차단": {
+          "count": 1,
+          "seconds": 60,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "채널 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "채널 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "레이드 감지": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "대량 멘션 감지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "@everyone/@here 방지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "개인정보 차단": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        }
+      }
+    },
+    "verification": {
+      "enabled": false,
+      "captcha_channel": null,
+      "verified_role": null
+    },
+    "log_channel": null,
+    "protect_log_channel": null,
+    "warn_log_channel": null,
+    "punishment_log_channel": null,
+    "notification_channel": 1494334711387127978,
+    "warnings": {},
+    "punishments": {},
+    "whitelist": {
+      "channels": [],
+      "roles": [],
+      "members": []
+    },
+    "exempt_admins": false
+  },
+  "1471147612106133619": {
+    "protections": {
+      "스팸 감지": false,
+      "도배 방지": false,
+      "링크 차단": false,
+      "관리자 권한 부여 차단": false,
+      "채널 대량 생성 방지": false,
+      "채널 대량 삭제 방지": false,
+      "역할 대량 생성 방지": false,
+      "역할 대량 삭제 방지": false,
+      "레이드 감지": false,
+      "대량 멘션 감지": false,
+      "@everyone/@here 방지": false,
+      "개인정보 차단": false
+    },
+    "punishment": {
+      "types": [
+        "DM 경고"
+      ],
+      "criteria": {
+        "스팸 감지": {
+          "count": 10,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "도배 방지": {
+          "count": 7,
+          "seconds": 5,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "링크 차단": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "관리자 권한 부여 차단": {
+          "count": 1,
+          "seconds": 60,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "채널 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "채널 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "레이드 감지": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "대량 멘션 감지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "@everyone/@here 방지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "개인정보 차단": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        }
+      }
+    },
+    "verification": {
+      "enabled": false,
+      "captcha_channel": null,
+      "verified_role": null
+    },
+    "log_channel": null,
+    "protect_log_channel": null,
+    "warn_log_channel": null,
+    "punishment_log_channel": null,
+    "notification_channel": 1494334714415288340,
+    "warnings": {},
+    "punishments": {},
+    "whitelist": {
+      "channels": [],
+      "roles": [],
+      "members": []
+    },
+    "exempt_admins": false
+  },
+  "1439486953954480170": {
+    "protections": {
+      "스팸 감지": false,
+      "도배 방지": false,
+      "링크 차단": false,
+      "관리자 권한 부여 차단": false,
+      "채널 대량 생성 방지": false,
+      "채널 대량 삭제 방지": false,
+      "역할 대량 생성 방지": false,
+      "역할 대량 삭제 방지": false,
+      "레이드 감지": false,
+      "대량 멘션 감지": false,
+      "@everyone/@here 방지": false,
+      "개인정보 차단": false
+    },
+    "punishment": {
+      "types": [
+        "DM 경고"
+      ],
+      "criteria": {
+        "스팸 감지": {
+          "count": 10,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "도배 방지": {
+          "count": 7,
+          "seconds": 5,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "링크 차단": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "관리자 권한 부여 차단": {
+          "count": 1,
+          "seconds": 60,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "채널 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "채널 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "레이드 감지": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "대량 멘션 감지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "@everyone/@here 방지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "개인정보 차단": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        }
+      }
+    },
+    "verification": {
+      "enabled": false,
+      "captcha_channel": null,
+      "verified_role": null
+    },
+    "log_channel": null,
+    "protect_log_channel": null,
+    "warn_log_channel": null,
+    "punishment_log_channel": null,
+    "notification_channel": 1494334718655725678,
+    "warnings": {},
+    "punishments": {},
+    "whitelist": {
+      "channels": [],
+      "roles": [],
+      "members": []
+    },
+    "exempt_admins": false
+  },
+  "1201485061229391892": {
+    "protections": {
+      "스팸 감지": false,
+      "도배 방지": false,
+      "링크 차단": false,
+      "관리자 권한 부여 차단": false,
+      "채널 대량 생성 방지": false,
+      "채널 대량 삭제 방지": false,
+      "역할 대량 생성 방지": false,
+      "역할 대량 삭제 방지": false,
+      "레이드 감지": false,
+      "대량 멘션 감지": false,
+      "@everyone/@here 방지": false,
+      "개인정보 차단": false
+    },
+    "punishment": {
+      "types": [
+        "DM 경고"
+      ],
+      "criteria": {
+        "스팸 감지": {
+          "count": 10,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "도배 방지": {
+          "count": 7,
+          "seconds": 5,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "링크 차단": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "관리자 권한 부여 차단": {
+          "count": 1,
+          "seconds": 60,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "채널 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "채널 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "레이드 감지": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "대량 멘션 감지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "@everyone/@here 방지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "개인정보 차단": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        }
+      }
+    },
+    "verification": {
+      "enabled": false,
+      "captcha_channel": null,
+      "verified_role": null
+    },
+    "log_channel": null,
+    "protect_log_channel": null,
+    "warn_log_channel": null,
+    "punishment_log_channel": null,
+    "notification_channel": 1494334720199098498,
+    "warnings": {},
+    "punishments": {},
+    "whitelist": {
+      "channels": [],
+      "roles": [],
+      "members": []
+    },
+    "exempt_admins": false
+  },
+  "1432732723662819419": {
+    "protections": {
+      "스팸 감지": false,
+      "도배 방지": false,
+      "링크 차단": false,
+      "관리자 권한 부여 차단": false,
+      "채널 대량 생성 방지": false,
+      "채널 대량 삭제 방지": false,
+      "역할 대량 생성 방지": false,
+      "역할 대량 삭제 방지": false,
+      "레이드 감지": false,
+      "대량 멘션 감지": false,
+      "@everyone/@here 방지": false,
+      "개인정보 차단": false
+    },
+    "punishment": {
+      "types": [
+        "DM 경고"
+      ],
+      "criteria": {
+        "스팸 감지": {
+          "count": 10,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "도배 방지": {
+          "count": 7,
+          "seconds": 5,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "링크 차단": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "관리자 권한 부여 차단": {
+          "count": 1,
+          "seconds": 60,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "채널 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "채널 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "레이드 감지": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "대량 멘션 감지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "@everyone/@here 방지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "개인정보 차단": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        }
+      }
+    },
+    "verification": {
+      "enabled": false,
+      "captcha_channel": null,
+      "verified_role": null
+    },
+    "log_channel": null,
+    "protect_log_channel": null,
+    "warn_log_channel": null,
+    "punishment_log_channel": null,
+    "notification_channel": 1494334721625423944,
+    "warnings": {},
+    "punishments": {},
+    "whitelist": {
+      "channels": [],
+      "roles": [],
+      "members": []
+    },
+    "exempt_admins": false
+  },
+  "1459867095604138111": {
+    "protections": {
+      "스팸 감지": false,
+      "도배 방지": false,
+      "링크 차단": false,
+      "관리자 권한 부여 차단": false,
+      "채널 대량 생성 방지": false,
+      "채널 대량 삭제 방지": false,
+      "역할 대량 생성 방지": false,
+      "역할 대량 삭제 방지": false,
+      "레이드 감지": false,
+      "대량 멘션 감지": false,
+      "@everyone/@here 방지": false,
+      "개인정보 차단": false
+    },
+    "punishment": {
+      "types": [
+        "DM 경고"
+      ],
+      "criteria": {
+        "스팸 감지": {
+          "count": 10,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "도배 방지": {
+          "count": 7,
+          "seconds": 5,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "링크 차단": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "관리자 권한 부여 차단": {
+          "count": 1,
+          "seconds": 60,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "채널 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "채널 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "레이드 감지": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "대량 멘션 감지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "@everyone/@here 방지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "개인정보 차단": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        }
+      }
+    },
+    "verification": {
+      "enabled": false,
+      "captcha_channel": null,
+      "verified_role": null
+    },
+    "log_channel": null,
+    "protect_log_channel": null,
+    "warn_log_channel": null,
+    "punishment_log_channel": null,
+    "notification_channel": 1494334723596615700,
+    "warnings": {},
+    "punishments": {},
+    "whitelist": {
+      "channels": [],
+      "roles": [],
+      "members": []
+    },
+    "exempt_admins": false
+  },
+  "1485904881540927551": {
+    "protections": {
+      "스팸 감지": false,
+      "도배 방지": false,
+      "링크 차단": false,
+      "관리자 권한 부여 차단": false,
+      "채널 대량 생성 방지": false,
+      "채널 대량 삭제 방지": false,
+      "역할 대량 생성 방지": false,
+      "역할 대량 삭제 방지": false,
+      "레이드 감지": false,
+      "대량 멘션 감지": false,
+      "@everyone/@here 방지": false,
+      "개인정보 차단": false
+    },
+    "punishment": {
+      "types": [
+        "DM 경고"
+      ],
+      "criteria": {
+        "스팸 감지": {
+          "count": 10,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "도배 방지": {
+          "count": 7,
+          "seconds": 5,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "링크 차단": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "관리자 권한 부여 차단": {
+          "count": 1,
+          "seconds": 60,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "채널 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "채널 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "레이드 감지": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "대량 멘션 감지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "@everyone/@here 방지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "개인정보 차단": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        }
+      }
+    },
+    "verification": {
+      "enabled": false,
+      "captcha_channel": null,
+      "verified_role": null
+    },
+    "log_channel": null,
+    "protect_log_channel": null,
+    "warn_log_channel": null,
+    "punishment_log_channel": null,
+    "notification_channel": 1494334725584851127,
+    "warnings": {},
+    "punishments": {},
+    "whitelist": {
+      "channels": [],
+      "roles": [],
+      "members": []
+    },
+    "exempt_admins": false
+  },
+  "1482682421609627711": {
+    "protections": {
+      "스팸 감지": false,
+      "도배 방지": false,
+      "링크 차단": false,
+      "관리자 권한 부여 차단": false,
+      "채널 대량 생성 방지": false,
+      "채널 대량 삭제 방지": false,
+      "역할 대량 생성 방지": false,
+      "역할 대량 삭제 방지": false,
+      "레이드 감지": false,
+      "대량 멘션 감지": false,
+      "@everyone/@here 방지": false,
+      "개인정보 차단": false
+    },
+    "punishment": {
+      "types": [
+        "DM 경고"
+      ],
+      "criteria": {
+        "스팸 감지": {
+          "count": 10,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "도배 방지": {
+          "count": 7,
+          "seconds": 5,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "링크 차단": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "관리자 권한 부여 차단": {
+          "count": 1,
+          "seconds": 60,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "채널 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "채널 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "레이드 감지": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "대량 멘션 감지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "@everyone/@here 방지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "개인정보 차단": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        }
+      }
+    },
+    "verification": {
+      "enabled": false,
+      "captcha_channel": null,
+      "verified_role": null
+    },
+    "log_channel": null,
+    "protect_log_channel": null,
+    "warn_log_channel": null,
+    "punishment_log_channel": null,
+    "notification_channel": 1494334727463632987,
+    "warnings": {},
+    "punishments": {},
+    "whitelist": {
+      "channels": [],
+      "roles": [],
+      "members": []
+    },
+    "exempt_admins": false
+  },
+  "1451476224084938845": {
+    "protections": {
+      "스팸 감지": false,
+      "도배 방지": false,
+      "링크 차단": false,
+      "관리자 권한 부여 차단": false,
+      "채널 대량 생성 방지": false,
+      "채널 대량 삭제 방지": false,
+      "역할 대량 생성 방지": false,
+      "역할 대량 삭제 방지": false,
+      "레이드 감지": false,
+      "대량 멘션 감지": false,
+      "@everyone/@here 방지": false,
+      "개인정보 차단": false
+    },
+    "punishment": {
+      "types": [
+        "DM 경고"
+      ],
+      "criteria": {
+        "스팸 감지": {
+          "count": 10,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "도배 방지": {
+          "count": 7,
+          "seconds": 5,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "링크 차단": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "관리자 권한 부여 차단": {
+          "count": 1,
+          "seconds": 60,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "채널 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "채널 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "레이드 감지": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "대량 멘션 감지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "@everyone/@here 방지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "개인정보 차단": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        }
+      }
+    },
+    "verification": {
+      "enabled": false,
+      "captcha_channel": null,
+      "verified_role": null
+    },
+    "log_channel": null,
+    "protect_log_channel": null,
+    "warn_log_channel": null,
+    "punishment_log_channel": null,
+    "notification_channel": 1494334729065988128,
+    "warnings": {},
+    "punishments": {},
+    "whitelist": {
+      "channels": [],
+      "roles": [],
+      "members": []
+    },
+    "exempt_admins": false
+  },
+  "1412722695719878658": {
+    "protections": {
+      "스팸 감지": false,
+      "도배 방지": false,
+      "링크 차단": false,
+      "관리자 권한 부여 차단": false,
+      "채널 대량 생성 방지": false,
+      "채널 대량 삭제 방지": false,
+      "역할 대량 생성 방지": false,
+      "역할 대량 삭제 방지": false,
+      "레이드 감지": false,
+      "대량 멘션 감지": false,
+      "@everyone/@here 방지": false,
+      "개인정보 차단": false
+    },
+    "punishment": {
+      "types": [
+        "DM 경고"
+      ],
+      "criteria": {
+        "스팸 감지": {
+          "count": 10,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "도배 방지": {
+          "count": 7,
+          "seconds": 5,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "링크 차단": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "관리자 권한 부여 차단": {
+          "count": 1,
+          "seconds": 60,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "채널 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "채널 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "레이드 감지": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "대량 멘션 감지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "@everyone/@here 방지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "개인정보 차단": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        }
+      }
+    },
+    "verification": {
+      "enabled": false,
+      "captcha_channel": null,
+      "verified_role": null
+    },
+    "log_channel": null,
+    "protect_log_channel": null,
+    "warn_log_channel": null,
+    "punishment_log_channel": null,
+    "notification_channel": 1494334731314008105,
+    "warnings": {},
+    "punishments": {},
+    "whitelist": {
+      "channels": [],
+      "roles": [],
+      "members": []
+    },
+    "exempt_admins": false
+  },
+  "1457593270862348432": {
+    "protections": {
+      "스팸 감지": false,
+      "도배 방지": false,
+      "링크 차단": false,
+      "관리자 권한 부여 차단": false,
+      "채널 대량 생성 방지": false,
+      "채널 대량 삭제 방지": false,
+      "역할 대량 생성 방지": false,
+      "역할 대량 삭제 방지": false,
+      "레이드 감지": false,
+      "대량 멘션 감지": false,
+      "@everyone/@here 방지": false,
+      "개인정보 차단": false
+    },
+    "punishment": {
+      "types": [
+        "DM 경고"
+      ],
+      "criteria": {
+        "스팸 감지": {
+          "count": 10,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "도배 방지": {
+          "count": 7,
+          "seconds": 5,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "링크 차단": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "관리자 권한 부여 차단": {
+          "count": 1,
+          "seconds": 60,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "채널 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "채널 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "레이드 감지": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "대량 멘션 감지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "@everyone/@here 방지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "개인정보 차단": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        }
+      }
+    },
+    "verification": {
+      "enabled": false,
+      "captcha_channel": null,
+      "verified_role": null
+    },
+    "log_channel": null,
+    "protect_log_channel": null,
+    "warn_log_channel": null,
+    "punishment_log_channel": null,
+    "notification_channel": 1494334733096714243,
+    "warnings": {},
+    "punishments": {},
+    "whitelist": {
+      "channels": [],
+      "roles": [],
+      "members": []
+    },
+    "exempt_admins": false
+  },
+  "1250713328058236959": {
+    "protections": {
+      "스팸 감지": false,
+      "도배 방지": false,
+      "링크 차단": false,
+      "관리자 권한 부여 차단": false,
+      "채널 대량 생성 방지": false,
+      "채널 대량 삭제 방지": false,
+      "역할 대량 생성 방지": false,
+      "역할 대량 삭제 방지": false,
+      "레이드 감지": false,
+      "대량 멘션 감지": false,
+      "@everyone/@here 방지": false,
+      "개인정보 차단": false
+    },
+    "punishment": {
+      "types": [
+        "DM 경고"
+      ],
+      "criteria": {
+        "스팸 감지": {
+          "count": 10,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "도배 방지": {
+          "count": 7,
+          "seconds": 5,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "링크 차단": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "관리자 권한 부여 차단": {
+          "count": 1,
+          "seconds": 60,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "채널 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "채널 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "레이드 감지": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "대량 멘션 감지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "@everyone/@here 방지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "개인정보 차단": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        }
+      }
+    },
+    "verification": {
+      "enabled": false,
+      "captcha_channel": null,
+      "verified_role": null
+    },
+    "log_channel": null,
+    "protect_log_channel": null,
+    "warn_log_channel": null,
+    "punishment_log_channel": null,
+    "notification_channel": 1494334739417399337,
+    "warnings": {},
+    "punishments": {},
+    "whitelist": {
+      "channels": [],
+      "roles": [],
+      "members": []
+    },
+    "exempt_admins": false
+  },
+  "1473966336773193801": {
+    "protections": {
+      "스팸 감지": false,
+      "도배 방지": false,
+      "링크 차단": false,
+      "관리자 권한 부여 차단": false,
+      "채널 대량 생성 방지": false,
+      "채널 대량 삭제 방지": false,
+      "역할 대량 생성 방지": false,
+      "역할 대량 삭제 방지": false,
+      "레이드 감지": false,
+      "대량 멘션 감지": false,
+      "@everyone/@here 방지": false,
+      "개인정보 차단": false
+    },
+    "punishment": {
+      "types": [
+        "DM 경고"
+      ],
+      "criteria": {
+        "스팸 감지": {
+          "count": 10,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "도배 방지": {
+          "count": 7,
+          "seconds": 5,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "링크 차단": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "관리자 권한 부여 차단": {
+          "count": 1,
+          "seconds": 60,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "채널 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "채널 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "레이드 감지": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "대량 멘션 감지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "@everyone/@here 방지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "개인정보 차단": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        }
+      }
+    },
+    "verification": {
+      "enabled": false,
+      "captcha_channel": null,
+      "verified_role": null
+    },
+    "log_channel": null,
+    "protect_log_channel": null,
+    "warn_log_channel": null,
+    "punishment_log_channel": null,
+    "notification_channel": 1494334741531463733,
+    "warnings": {},
+    "punishments": {},
+    "whitelist": {
+      "channels": [],
+      "roles": [],
+      "members": []
+    },
+    "exempt_admins": false
+  },
+  "1483030604600573993": {
+    "protections": {
+      "스팸 감지": false,
+      "도배 방지": false,
+      "링크 차단": false,
+      "관리자 권한 부여 차단": false,
+      "채널 대량 생성 방지": false,
+      "채널 대량 삭제 방지": false,
+      "역할 대량 생성 방지": false,
+      "역할 대량 삭제 방지": false,
+      "레이드 감지": false,
+      "대량 멘션 감지": false,
+      "@everyone/@here 방지": false,
+      "개인정보 차단": false
+    },
+    "punishment": {
+      "types": [
+        "DM 경고"
+      ],
+      "criteria": {
+        "스팸 감지": {
+          "count": 10,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "도배 방지": {
+          "count": 7,
+          "seconds": 5,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "링크 차단": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "관리자 권한 부여 차단": {
+          "count": 1,
+          "seconds": 60,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "채널 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "채널 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "레이드 감지": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "대량 멘션 감지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "@everyone/@here 방지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "개인정보 차단": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        }
+      }
+    },
+    "verification": {
+      "enabled": false,
+      "captcha_channel": null,
+      "verified_role": null
+    },
+    "log_channel": null,
+    "protect_log_channel": null,
+    "warn_log_channel": null,
+    "punishment_log_channel": null,
+    "notification_channel": 1494334749508898906,
+    "warnings": {},
+    "punishments": {},
+    "whitelist": {
+      "channels": [],
+      "roles": [],
+      "members": []
+    },
+    "exempt_admins": false
+  },
+  "1464078661375234060": {
+    "protections": {
+      "스팸 감지": false,
+      "도배 방지": false,
+      "링크 차단": false,
+      "관리자 권한 부여 차단": false,
+      "채널 대량 생성 방지": false,
+      "채널 대량 삭제 방지": false,
+      "역할 대량 생성 방지": false,
+      "역할 대량 삭제 방지": false,
+      "레이드 감지": false,
+      "대량 멘션 감지": false,
+      "@everyone/@here 방지": false,
+      "개인정보 차단": false
+    },
+    "punishment": {
+      "types": [
+        "DM 경고"
+      ],
+      "criteria": {
+        "스팸 감지": {
+          "count": 10,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "도배 방지": {
+          "count": 7,
+          "seconds": 5,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "링크 차단": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "관리자 권한 부여 차단": {
+          "count": 1,
+          "seconds": 60,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "채널 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "채널 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "레이드 감지": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "대량 멘션 감지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "@everyone/@here 방지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "개인정보 차단": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        }
+      }
+    },
+    "verification": {
+      "enabled": false,
+      "captcha_channel": null,
+      "verified_role": null
+    },
+    "log_channel": null,
+    "protect_log_channel": null,
+    "warn_log_channel": null,
+    "punishment_log_channel": null,
+    "notification_channel": 1494334751123968160,
+    "warnings": {},
+    "punishments": {},
+    "whitelist": {
+      "channels": [],
+      "roles": [],
+      "members": []
+    },
+    "exempt_admins": false
+  },
+  "1421821379971383376": {
+    "protections": {
+      "스팸 감지": false,
+      "도배 방지": false,
+      "링크 차단": false,
+      "관리자 권한 부여 차단": false,
+      "채널 대량 생성 방지": false,
+      "채널 대량 삭제 방지": false,
+      "역할 대량 생성 방지": false,
+      "역할 대량 삭제 방지": false,
+      "레이드 감지": false,
+      "대량 멘션 감지": false,
+      "@everyone/@here 방지": false,
+      "개인정보 차단": false
+    },
+    "punishment": {
+      "types": [
+        "DM 경고"
+      ],
+      "criteria": {
+        "스팸 감지": {
+          "count": 10,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "도배 방지": {
+          "count": 7,
+          "seconds": 5,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "링크 차단": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "관리자 권한 부여 차단": {
+          "count": 1,
+          "seconds": 60,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "채널 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "채널 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "레이드 감지": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "대량 멘션 감지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "@everyone/@here 방지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "개인정보 차단": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        }
+      }
+    },
+    "verification": {
+      "enabled": false,
+      "captcha_channel": null,
+      "verified_role": null
+    },
+    "log_channel": null,
+    "protect_log_channel": null,
+    "warn_log_channel": null,
+    "punishment_log_channel": null,
+    "notification_channel": 1494334752499437730,
+    "warnings": {},
+    "punishments": {},
+    "whitelist": {
+      "channels": [],
+      "roles": [],
+      "members": []
+    },
+    "exempt_admins": false
+  },
+  "1487712505009803286": {
+    "protections": {
+      "스팸 감지": false,
+      "도배 방지": false,
+      "링크 차단": false,
+      "관리자 권한 부여 차단": false,
+      "채널 대량 생성 방지": false,
+      "채널 대량 삭제 방지": false,
+      "역할 대량 생성 방지": false,
+      "역할 대량 삭제 방지": false,
+      "레이드 감지": false,
+      "대량 멘션 감지": false,
+      "@everyone/@here 방지": false,
+      "개인정보 차단": false
+    },
+    "punishment": {
+      "types": [
+        "DM 경고"
+      ],
+      "criteria": {
+        "스팸 감지": {
+          "count": 10,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "도배 방지": {
+          "count": 7,
+          "seconds": 5,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "링크 차단": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "관리자 권한 부여 차단": {
+          "count": 1,
+          "seconds": 60,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "채널 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "채널 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "레이드 감지": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "대량 멘션 감지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "@everyone/@here 방지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "개인정보 차단": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        }
+      }
+    },
+    "verification": {
+      "enabled": false,
+      "captcha_channel": null,
+      "verified_role": null
+    },
+    "log_channel": null,
+    "protect_log_channel": null,
+    "warn_log_channel": null,
+    "punishment_log_channel": null,
+    "notification_channel": 1495769062280663222,
+    "warnings": {},
+    "punishments": {},
+    "whitelist": {
+      "channels": [],
+      "roles": [],
+      "members": []
+    },
+    "exempt_admins": false
+  },
+  "1281235888638263348": {
+    "protections": {
+      "스팸 감지": false,
+      "도배 방지": false,
+      "링크 차단": false,
+      "관리자 권한 부여 차단": false,
+      "채널 대량 생성 방지": false,
+      "채널 대량 삭제 방지": false,
+      "역할 대량 생성 방지": false,
+      "역할 대량 삭제 방지": false,
+      "레이드 감지": false,
+      "대량 멘션 감지": false,
+      "@everyone/@here 방지": false,
+      "개인정보 차단": false
+    },
+    "punishment": {
+      "types": [
+        "DM 경고"
+      ],
+      "criteria": {
+        "스팸 감지": {
+          "count": 10,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "도배 방지": {
+          "count": 7,
+          "seconds": 5,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "링크 차단": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "관리자 권한 부여 차단": {
+          "count": 1,
+          "seconds": 60,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "채널 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "채널 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "레이드 감지": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "대량 멘션 감지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "@everyone/@here 방지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "개인정보 차단": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        }
+      }
+    },
+    "verification": {
+      "enabled": false,
+      "captcha_channel": null,
+      "verified_role": null
+    },
+    "log_channel": null,
+    "protect_log_channel": null,
+    "warn_log_channel": null,
+    "punishment_log_channel": null,
+    "notification_channel": 1494334765656965161,
+    "warnings": {},
+    "punishments": {},
+    "whitelist": {
+      "channels": [],
+      "roles": [],
+      "members": []
+    },
+    "exempt_admins": false
+  },
+  "1404074536206340146": {
+    "protections": {
+      "스팸 감지": false,
+      "도배 방지": false,
+      "링크 차단": false,
+      "관리자 권한 부여 차단": false,
+      "채널 대량 생성 방지": false,
+      "채널 대량 삭제 방지": false,
+      "역할 대량 생성 방지": false,
+      "역할 대량 삭제 방지": false,
+      "레이드 감지": false,
+      "대량 멘션 감지": false,
+      "@everyone/@here 방지": false,
+      "개인정보 차단": false
+    },
+    "punishment": {
+      "types": [
+        "DM 경고"
+      ],
+      "criteria": {
+        "스팸 감지": {
+          "count": 10,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "도배 방지": {
+          "count": 7,
+          "seconds": 5,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "링크 차단": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "관리자 권한 부여 차단": {
+          "count": 1,
+          "seconds": 60,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "채널 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "채널 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "레이드 감지": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "대량 멘션 감지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "@everyone/@here 방지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "개인정보 차단": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        }
+      }
+    },
+    "verification": {
+      "enabled": false,
+      "captcha_channel": null,
+      "verified_role": null
+    },
+    "log_channel": null,
+    "protect_log_channel": null,
+    "warn_log_channel": null,
+    "punishment_log_channel": null,
+    "notification_channel": 1494334767389212733,
+    "warnings": {},
+    "punishments": {},
+    "whitelist": {
+      "channels": [],
+      "roles": [],
+      "members": []
+    },
+    "exempt_admins": false
+  },
+  "1369294572747882628": {
+    "protections": {
+      "스팸 감지": false,
+      "도배 방지": false,
+      "링크 차단": false,
+      "관리자 권한 부여 차단": false,
+      "채널 대량 생성 방지": false,
+      "채널 대량 삭제 방지": false,
+      "역할 대량 생성 방지": false,
+      "역할 대량 삭제 방지": false,
+      "레이드 감지": false,
+      "대량 멘션 감지": false,
+      "@everyone/@here 방지": false,
+      "개인정보 차단": false
+    },
+    "punishment": {
+      "types": [
+        "DM 경고"
+      ],
+      "criteria": {
+        "스팸 감지": {
+          "count": 10,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "도배 방지": {
+          "count": 7,
+          "seconds": 5,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "링크 차단": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "관리자 권한 부여 차단": {
+          "count": 1,
+          "seconds": 60,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "채널 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "채널 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "레이드 감지": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "대량 멘션 감지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "@everyone/@here 방지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "개인정보 차단": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        }
+      }
+    },
+    "verification": {
+      "enabled": false,
+      "captcha_channel": null,
+      "verified_role": null
+    },
+    "log_channel": null,
+    "protect_log_channel": null,
+    "warn_log_channel": null,
+    "punishment_log_channel": null,
+    "notification_channel": 1494334769410871307,
+    "warnings": {},
+    "punishments": {},
+    "whitelist": {
+      "channels": [],
+      "roles": [],
+      "members": []
+    },
+    "exempt_admins": false
+  },
+  "1483746655525142562": {
+    "protections": {
+      "스팸 감지": false,
+      "도배 방지": false,
+      "링크 차단": false,
+      "관리자 권한 부여 차단": false,
+      "채널 대량 생성 방지": false,
+      "채널 대량 삭제 방지": false,
+      "역할 대량 생성 방지": false,
+      "역할 대량 삭제 방지": false,
+      "레이드 감지": false,
+      "대량 멘션 감지": false,
+      "@everyone/@here 방지": false,
+      "개인정보 차단": false
+    },
+    "punishment": {
+      "types": [
+        "DM 경고"
+      ],
+      "criteria": {
+        "스팸 감지": {
+          "count": 10,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "도배 방지": {
+          "count": 7,
+          "seconds": 5,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "링크 차단": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "관리자 권한 부여 차단": {
+          "count": 1,
+          "seconds": 60,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "채널 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "채널 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "레이드 감지": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "대량 멘션 감지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "@everyone/@here 방지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "개인정보 차단": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        }
+      }
+    },
+    "verification": {
+      "enabled": false,
+      "captcha_channel": null,
+      "verified_role": null
+    },
+    "log_channel": null,
+    "protect_log_channel": null,
+    "warn_log_channel": null,
+    "punishment_log_channel": null,
+    "notification_channel": 1494334771072073970,
+    "warnings": {},
+    "punishments": {},
+    "whitelist": {
+      "channels": [],
+      "roles": [],
+      "members": []
+    },
+    "exempt_admins": false
+  },
+  "1459463605715210323": {
+    "protections": {
+      "스팸 감지": false,
+      "도배 방지": false,
+      "링크 차단": false,
+      "관리자 권한 부여 차단": false,
+      "채널 대량 생성 방지": false,
+      "채널 대량 삭제 방지": false,
+      "역할 대량 생성 방지": false,
+      "역할 대량 삭제 방지": false,
+      "레이드 감지": false,
+      "대량 멘션 감지": false,
+      "@everyone/@here 방지": false,
+      "개인정보 차단": false
+    },
+    "punishment": {
+      "types": [
+        "DM 경고"
+      ],
+      "criteria": {
+        "스팸 감지": {
+          "count": 10,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "도배 방지": {
+          "count": 7,
+          "seconds": 5,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "링크 차단": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "관리자 권한 부여 차단": {
+          "count": 1,
+          "seconds": 60,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "채널 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "채널 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "레이드 감지": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "대량 멘션 감지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "@everyone/@here 방지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "개인정보 차단": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        }
+      }
+    },
+    "verification": {
+      "enabled": false,
+      "captcha_channel": null,
+      "verified_role": null
+    },
+    "log_channel": null,
+    "protect_log_channel": null,
+    "warn_log_channel": null,
+    "punishment_log_channel": null,
+    "notification_channel": 1494334772913373334,
+    "warnings": {},
+    "punishments": {},
+    "whitelist": {
+      "channels": [],
+      "roles": [],
+      "members": []
+    },
+    "exempt_admins": false
+  },
+  "1370945052897054810": {
+    "protections": {
+      "스팸 감지": false,
+      "도배 방지": false,
+      "링크 차단": false,
+      "관리자 권한 부여 차단": false,
+      "채널 대량 생성 방지": false,
+      "채널 대량 삭제 방지": false,
+      "역할 대량 생성 방지": false,
+      "역할 대량 삭제 방지": false,
+      "레이드 감지": false,
+      "대량 멘션 감지": false,
+      "@everyone/@here 방지": false,
+      "개인정보 차단": false
+    },
+    "punishment": {
+      "types": [
+        "DM 경고"
+      ],
+      "criteria": {
+        "스팸 감지": {
+          "count": 10,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "도배 방지": {
+          "count": 7,
+          "seconds": 5,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "링크 차단": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "관리자 권한 부여 차단": {
+          "count": 1,
+          "seconds": 60,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "채널 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "채널 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "레이드 감지": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "대량 멘션 감지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "@everyone/@here 방지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "개인정보 차단": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        }
+      }
+    },
+    "verification": {
+      "enabled": false,
+      "captcha_channel": null,
+      "verified_role": null
+    },
+    "log_channel": null,
+    "protect_log_channel": null,
+    "warn_log_channel": null,
+    "punishment_log_channel": null,
+    "notification_channel": 1494334779338784829,
+    "warnings": {},
+    "punishments": {},
+    "whitelist": {
+      "channels": [],
+      "roles": [],
+      "members": []
+    },
+    "exempt_admins": false
+  },
+  "1462724147380617388": {
+    "protections": {
+      "스팸 감지": false,
+      "도배 방지": false,
+      "링크 차단": false,
+      "관리자 권한 부여 차단": false,
+      "채널 대량 생성 방지": false,
+      "채널 대량 삭제 방지": false,
+      "역할 대량 생성 방지": false,
+      "역할 대량 삭제 방지": false,
+      "레이드 감지": false,
+      "대량 멘션 감지": false,
+      "@everyone/@here 방지": false,
+      "개인정보 차단": false
+    },
+    "punishment": {
+      "types": [
+        "DM 경고"
+      ],
+      "criteria": {
+        "스팸 감지": {
+          "count": 10,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "도배 방지": {
+          "count": 7,
+          "seconds": 5,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "링크 차단": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "관리자 권한 부여 차단": {
+          "count": 1,
+          "seconds": 60,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "채널 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "채널 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "레이드 감지": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "대량 멘션 감지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "@everyone/@here 방지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "개인정보 차단": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        }
+      }
+    },
+    "verification": {
+      "enabled": false,
+      "captcha_channel": null,
+      "verified_role": null
+    },
+    "log_channel": null,
+    "protect_log_channel": null,
+    "warn_log_channel": null,
+    "punishment_log_channel": null,
+    "notification_channel": 1494334785869447292,
+    "warnings": {},
+    "punishments": {},
+    "whitelist": {
+      "channels": [],
+      "roles": [],
+      "members": []
+    },
+    "exempt_admins": false
+  },
+  "1426440755039174728": {
+    "protections": {
+      "스팸 감지": false,
+      "도배 방지": false,
+      "링크 차단": false,
+      "관리자 권한 부여 차단": false,
+      "채널 대량 생성 방지": false,
+      "채널 대량 삭제 방지": false,
+      "역할 대량 생성 방지": false,
+      "역할 대량 삭제 방지": false,
+      "레이드 감지": false,
+      "대량 멘션 감지": false,
+      "@everyone/@here 방지": false,
+      "개인정보 차단": false
+    },
+    "punishment": {
+      "types": [
+        "DM 경고"
+      ],
+      "criteria": {
+        "스팸 감지": {
+          "count": 10,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "도배 방지": {
+          "count": 7,
+          "seconds": 5,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "링크 차단": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "관리자 권한 부여 차단": {
+          "count": 1,
+          "seconds": 60,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "채널 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "채널 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "레이드 감지": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "대량 멘션 감지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "@everyone/@here 방지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "개인정보 차단": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        }
+      }
+    },
+    "verification": {
+      "enabled": false,
+      "captcha_channel": null,
+      "verified_role": null
+    },
+    "log_channel": null,
+    "protect_log_channel": null,
+    "warn_log_channel": null,
+    "punishment_log_channel": null,
+    "notification_channel": 1494334788386033664,
+    "warnings": {},
+    "punishments": {},
+    "whitelist": {
+      "channels": [],
+      "roles": [],
+      "members": []
+    },
+    "exempt_admins": false
+  },
+  "1428524341049556993": {
+    "protections": {
+      "스팸 감지": false,
+      "도배 방지": false,
+      "링크 차단": false,
+      "관리자 권한 부여 차단": false,
+      "채널 대량 생성 방지": false,
+      "채널 대량 삭제 방지": false,
+      "역할 대량 생성 방지": false,
+      "역할 대량 삭제 방지": false,
+      "레이드 감지": false,
+      "대량 멘션 감지": false,
+      "@everyone/@here 방지": false,
+      "개인정보 차단": false
+    },
+    "punishment": {
+      "types": [
+        "DM 경고"
+      ],
+      "criteria": {
+        "스팸 감지": {
+          "count": 10,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "도배 방지": {
+          "count": 7,
+          "seconds": 5,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "링크 차단": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "관리자 권한 부여 차단": {
+          "count": 1,
+          "seconds": 60,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "채널 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "채널 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "레이드 감지": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "대량 멘션 감지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "@everyone/@here 방지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "개인정보 차단": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        }
+      }
+    },
+    "verification": {
+      "enabled": false,
+      "captcha_channel": null,
+      "verified_role": null
+    },
+    "log_channel": null,
+    "protect_log_channel": null,
+    "warn_log_channel": null,
+    "punishment_log_channel": null,
+    "notification_channel": 1494334790650957975,
+    "warnings": {},
+    "punishments": {},
+    "whitelist": {
+      "channels": [],
+      "roles": [],
+      "members": []
+    },
+    "exempt_admins": false
+  },
+  "1447243114887778334": {
+    "protections": {
+      "스팸 감지": false,
+      "도배 방지": false,
+      "링크 차단": false,
+      "관리자 권한 부여 차단": false,
+      "채널 대량 생성 방지": false,
+      "채널 대량 삭제 방지": false,
+      "역할 대량 생성 방지": false,
+      "역할 대량 삭제 방지": false,
+      "레이드 감지": false,
+      "대량 멘션 감지": false,
+      "@everyone/@here 방지": false,
+      "개인정보 차단": false
+    },
+    "punishment": {
+      "types": [
+        "DM 경고"
+      ],
+      "criteria": {
+        "스팸 감지": {
+          "count": 10,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "도배 방지": {
+          "count": 7,
+          "seconds": 5,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "링크 차단": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "관리자 권한 부여 차단": {
+          "count": 1,
+          "seconds": 60,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "채널 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "채널 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "레이드 감지": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "대량 멘션 감지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "@everyone/@here 방지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "개인정보 차단": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        }
+      }
+    },
+    "verification": {
+      "enabled": false,
+      "captcha_channel": null,
+      "verified_role": null
+    },
+    "log_channel": null,
+    "protect_log_channel": null,
+    "warn_log_channel": null,
+    "punishment_log_channel": null,
+    "notification_channel": 1494334792420950209,
+    "warnings": {},
+    "punishments": {},
+    "whitelist": {
+      "channels": [],
+      "roles": [],
+      "members": []
+    },
+    "exempt_admins": false
+  },
+  "1331570428669333526": {
+    "protections": {
+      "스팸 감지": false,
+      "도배 방지": false,
+      "링크 차단": false,
+      "관리자 권한 부여 차단": false,
+      "채널 대량 생성 방지": false,
+      "채널 대량 삭제 방지": false,
+      "역할 대량 생성 방지": false,
+      "역할 대량 삭제 방지": false,
+      "레이드 감지": false,
+      "대량 멘션 감지": false,
+      "@everyone/@here 방지": false,
+      "개인정보 차단": false
+    },
+    "punishment": {
+      "types": [
+        "DM 경고"
+      ],
+      "criteria": {
+        "스팸 감지": {
+          "count": 10,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "도배 방지": {
+          "count": 7,
+          "seconds": 5,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "링크 차단": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "관리자 권한 부여 차단": {
+          "count": 1,
+          "seconds": 60,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "채널 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "채널 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "레이드 감지": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "대량 멘션 감지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "@everyone/@here 방지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "개인정보 차단": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        }
+      }
+    },
+    "verification": {
+      "enabled": false,
+      "captcha_channel": null,
+      "verified_role": null
+    },
+    "log_channel": null,
+    "protect_log_channel": null,
+    "warn_log_channel": null,
+    "punishment_log_channel": null,
+    "notification_channel": 1494334798636777576,
+    "warnings": {},
+    "punishments": {},
+    "whitelist": {
+      "channels": [],
+      "roles": [],
+      "members": []
+    },
+    "exempt_admins": false
+  },
+  "1294886136828657664": {
+    "protections": {
+      "스팸 감지": false,
+      "도배 방지": false,
+      "링크 차단": false,
+      "관리자 권한 부여 차단": false,
+      "채널 대량 생성 방지": false,
+      "채널 대량 삭제 방지": false,
+      "역할 대량 생성 방지": false,
+      "역할 대량 삭제 방지": false,
+      "레이드 감지": false,
+      "대량 멘션 감지": false,
+      "@everyone/@here 방지": false,
+      "개인정보 차단": false
+    },
+    "punishment": {
+      "types": [
+        "DM 경고"
+      ],
+      "criteria": {
+        "스팸 감지": {
+          "count": 10,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "도배 방지": {
+          "count": 7,
+          "seconds": 5,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "링크 차단": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "관리자 권한 부여 차단": {
+          "count": 1,
+          "seconds": 60,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "채널 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "채널 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "레이드 감지": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "대량 멘션 감지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "@everyone/@here 방지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "개인정보 차단": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        }
+      }
+    },
+    "verification": {
+      "enabled": false,
+      "captcha_channel": null,
+      "verified_role": null
+    },
+    "log_channel": null,
+    "protect_log_channel": null,
+    "warn_log_channel": null,
+    "punishment_log_channel": null,
+    "notification_channel": 1494334801002369194,
+    "warnings": {},
+    "punishments": {},
+    "whitelist": {
+      "channels": [],
+      "roles": [],
+      "members": []
+    },
+    "exempt_admins": false
+  },
+  "1431578761534505074": {
+    "protections": {
+      "스팸 감지": false,
+      "도배 방지": false,
+      "링크 차단": false,
+      "관리자 권한 부여 차단": false,
+      "채널 대량 생성 방지": false,
+      "채널 대량 삭제 방지": false,
+      "역할 대량 생성 방지": false,
+      "역할 대량 삭제 방지": false,
+      "레이드 감지": false,
+      "대량 멘션 감지": false,
+      "@everyone/@here 방지": false,
+      "개인정보 차단": false
+    },
+    "punishment": {
+      "types": [
+        "DM 경고"
+      ],
+      "criteria": {
+        "스팸 감지": {
+          "count": 10,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "도배 방지": {
+          "count": 7,
+          "seconds": 5,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "링크 차단": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "관리자 권한 부여 차단": {
+          "count": 1,
+          "seconds": 60,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "채널 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "채널 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "레이드 감지": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "대량 멘션 감지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "@everyone/@here 방지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "개인정보 차단": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        }
+      }
+    },
+    "verification": {
+      "enabled": false,
+      "captcha_channel": null,
+      "verified_role": null
+    },
+    "log_channel": null,
+    "protect_log_channel": null,
+    "warn_log_channel": null,
+    "punishment_log_channel": null,
+    "notification_channel": 1494334802852315177,
+    "warnings": {},
+    "punishments": {},
+    "whitelist": {
+      "channels": [],
+      "roles": [],
+      "members": []
+    },
+    "exempt_admins": false
+  },
+  "1353854438145654905": {
+    "protections": {
+      "스팸 감지": false,
+      "도배 방지": false,
+      "링크 차단": false,
+      "관리자 권한 부여 차단": false,
+      "채널 대량 생성 방지": false,
+      "채널 대량 삭제 방지": false,
+      "역할 대량 생성 방지": false,
+      "역할 대량 삭제 방지": false,
+      "레이드 감지": false,
+      "대량 멘션 감지": false,
+      "@everyone/@here 방지": false,
+      "개인정보 차단": false
+    },
+    "punishment": {
+      "types": [
+        "DM 경고"
+      ],
+      "criteria": {
+        "스팸 감지": {
+          "count": 10,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "도배 방지": {
+          "count": 7,
+          "seconds": 5,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "링크 차단": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "관리자 권한 부여 차단": {
+          "count": 1,
+          "seconds": 60,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "채널 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "채널 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "레이드 감지": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "대량 멘션 감지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "@everyone/@here 방지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "개인정보 차단": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        }
+      }
+    },
+    "verification": {
+      "enabled": false,
+      "captcha_channel": null,
+      "verified_role": null
+    },
+    "log_channel": null,
+    "protect_log_channel": null,
+    "warn_log_channel": null,
+    "punishment_log_channel": null,
+    "notification_channel": 1494334804781568111,
+    "warnings": {},
+    "punishments": {},
+    "whitelist": {
+      "channels": [],
+      "roles": [],
+      "members": []
+    },
+    "exempt_admins": false
+  },
+  "1445404627993366621": {
+    "protections": {
+      "스팸 감지": false,
+      "도배 방지": false,
+      "링크 차단": false,
+      "관리자 권한 부여 차단": false,
+      "채널 대량 생성 방지": false,
+      "채널 대량 삭제 방지": false,
+      "역할 대량 생성 방지": false,
+      "역할 대량 삭제 방지": false,
+      "레이드 감지": false,
+      "대량 멘션 감지": false,
+      "@everyone/@here 방지": false,
+      "개인정보 차단": false
+    },
+    "punishment": {
+      "types": [
+        "DM 경고"
+      ],
+      "criteria": {
+        "스팸 감지": {
+          "count": 10,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "도배 방지": {
+          "count": 7,
+          "seconds": 5,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "링크 차단": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "관리자 권한 부여 차단": {
+          "count": 1,
+          "seconds": 60,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "채널 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "채널 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "레이드 감지": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "대량 멘션 감지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "@everyone/@here 방지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "개인정보 차단": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        }
+      }
+    },
+    "verification": {
+      "enabled": false,
+      "captcha_channel": null,
+      "verified_role": null
+    },
+    "log_channel": null,
+    "protect_log_channel": null,
+    "warn_log_channel": null,
+    "punishment_log_channel": null,
+    "notification_channel": null,
+    "warnings": {},
+    "punishments": {},
+    "whitelist": {
+      "channels": [],
+      "roles": [],
+      "members": []
+    },
+    "exempt_admins": false
+  },
+  "1472918673139437578": {
+    "protections": {
+      "스팸 감지": false,
+      "도배 방지": false,
+      "링크 차단": false,
+      "관리자 권한 부여 차단": false,
+      "채널 대량 생성 방지": false,
+      "채널 대량 삭제 방지": false,
+      "역할 대량 생성 방지": false,
+      "역할 대량 삭제 방지": false,
+      "레이드 감지": false,
+      "대량 멘션 감지": false,
+      "@everyone/@here 방지": false,
+      "개인정보 차단": false
+    },
+    "punishment": {
+      "types": [
+        "DM 경고"
+      ],
+      "criteria": {
+        "스팸 감지": {
+          "count": 10,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "도배 방지": {
+          "count": 7,
+          "seconds": 5,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "링크 차단": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "관리자 권한 부여 차단": {
+          "count": 1,
+          "seconds": 60,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "채널 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "채널 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "레이드 감지": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "대량 멘션 감지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "@everyone/@here 방지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "개인정보 차단": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        }
+      }
+    },
+    "verification": {
+      "enabled": false,
+      "captcha_channel": null,
+      "verified_role": null
+    },
+    "log_channel": null,
+    "protect_log_channel": null,
+    "warn_log_channel": null,
+    "punishment_log_channel": null,
+    "notification_channel": 1494334806601764874,
+    "warnings": {},
+    "punishments": {},
+    "whitelist": {
+      "channels": [],
+      "roles": [],
+      "members": []
+    },
+    "exempt_admins": false
+  },
+  "1381518894673428542": {
+    "protections": {
+      "스팸 감지": false,
+      "도배 방지": false,
+      "링크 차단": false,
+      "관리자 권한 부여 차단": false,
+      "채널 대량 생성 방지": false,
+      "채널 대량 삭제 방지": false,
+      "역할 대량 생성 방지": false,
+      "역할 대량 삭제 방지": false,
+      "레이드 감지": false,
+      "대량 멘션 감지": false,
+      "@everyone/@here 방지": false,
+      "개인정보 차단": false
+    },
+    "punishment": {
+      "types": [
+        "DM 경고"
+      ],
+      "criteria": {
+        "스팸 감지": {
+          "count": 10,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "도배 방지": {
+          "count": 7,
+          "seconds": 5,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "링크 차단": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "관리자 권한 부여 차단": {
+          "count": 1,
+          "seconds": 60,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "채널 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "채널 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "레이드 감지": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "대량 멘션 감지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "@everyone/@here 방지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "개인정보 차단": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        }
+      }
+    },
+    "verification": {
+      "enabled": false,
+      "captcha_channel": null,
+      "verified_role": null
+    },
+    "log_channel": null,
+    "protect_log_channel": null,
+    "warn_log_channel": null,
+    "punishment_log_channel": null,
+    "notification_channel": 1494334808157978739,
+    "warnings": {},
+    "punishments": {},
+    "whitelist": {
+      "channels": [],
+      "roles": [],
+      "members": []
+    },
+    "exempt_admins": false
+  },
+  "1476897798099304622": {
+    "protections": {
+      "스팸 감지": false,
+      "도배 방지": false,
+      "링크 차단": false,
+      "관리자 권한 부여 차단": false,
+      "채널 대량 생성 방지": false,
+      "채널 대량 삭제 방지": false,
+      "역할 대량 생성 방지": false,
+      "역할 대량 삭제 방지": false,
+      "레이드 감지": false,
+      "대량 멘션 감지": false,
+      "@everyone/@here 방지": false,
+      "개인정보 차단": false
+    },
+    "punishment": {
+      "types": [
+        "DM 경고"
+      ],
+      "criteria": {
+        "스팸 감지": {
+          "count": 10,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "도배 방지": {
+          "count": 7,
+          "seconds": 5,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "링크 차단": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "관리자 권한 부여 차단": {
+          "count": 1,
+          "seconds": 60,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "채널 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "채널 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "레이드 감지": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "대량 멘션 감지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "@everyone/@here 방지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "개인정보 차단": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        }
+      }
+    },
+    "verification": {
+      "enabled": false,
+      "captcha_channel": null,
+      "verified_role": null
+    },
+    "log_channel": null,
+    "protect_log_channel": null,
+    "warn_log_channel": null,
+    "punishment_log_channel": null,
+    "notification_channel": 1494334810506661889,
+    "warnings": {},
+    "punishments": {},
+    "whitelist": {
+      "channels": [],
+      "roles": [],
+      "members": []
+    },
+    "exempt_admins": false
+  },
+  "1363130395172016180": {
+    "protections": {
+      "스팸 감지": false,
+      "도배 방지": false,
+      "링크 차단": false,
+      "관리자 권한 부여 차단": false,
+      "채널 대량 생성 방지": false,
+      "채널 대량 삭제 방지": false,
+      "역할 대량 생성 방지": false,
+      "역할 대량 삭제 방지": false,
+      "레이드 감지": false,
+      "대량 멘션 감지": false,
+      "@everyone/@here 방지": false,
+      "개인정보 차단": false
+    },
+    "punishment": {
+      "types": [
+        "DM 경고"
+      ],
+      "criteria": {
+        "스팸 감지": {
+          "count": 10,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "도배 방지": {
+          "count": 7,
+          "seconds": 5,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "링크 차단": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "관리자 권한 부여 차단": {
+          "count": 1,
+          "seconds": 60,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "채널 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "채널 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "레이드 감지": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "대량 멘션 감지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "@everyone/@here 방지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "개인정보 차단": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        }
+      }
+    },
+    "verification": {
+      "enabled": false,
+      "captcha_channel": null,
+      "verified_role": null
+    },
+    "log_channel": null,
+    "protect_log_channel": null,
+    "warn_log_channel": null,
+    "punishment_log_channel": null,
+    "notification_channel": 1494334815858851920,
+    "warnings": {},
+    "punishments": {},
+    "whitelist": {
+      "channels": [],
+      "roles": [],
+      "members": []
+    },
+    "exempt_admins": false
+  },
+  "1425846947868049454": {
+    "protections": {
+      "스팸 감지": false,
+      "도배 방지": false,
+      "링크 차단": false,
+      "관리자 권한 부여 차단": false,
+      "채널 대량 생성 방지": false,
+      "채널 대량 삭제 방지": false,
+      "역할 대량 생성 방지": false,
+      "역할 대량 삭제 방지": false,
+      "레이드 감지": false,
+      "대량 멘션 감지": false,
+      "@everyone/@here 방지": false,
+      "개인정보 차단": false
+    },
+    "punishment": {
+      "types": [
+        "DM 경고"
+      ],
+      "criteria": {
+        "스팸 감지": {
+          "count": 10,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "도배 방지": {
+          "count": 7,
+          "seconds": 5,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "링크 차단": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "관리자 권한 부여 차단": {
+          "count": 1,
+          "seconds": 60,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "채널 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "채널 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "레이드 감지": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "대량 멘션 감지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "@everyone/@here 방지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "개인정보 차단": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        }
+      }
+    },
+    "verification": {
+      "enabled": false,
+      "captcha_channel": null,
+      "verified_role": null
+    },
+    "log_channel": null,
+    "protect_log_channel": null,
+    "warn_log_channel": null,
+    "punishment_log_channel": null,
+    "notification_channel": 1494334822380994661,
+    "warnings": {},
+    "punishments": {},
+    "whitelist": {
+      "channels": [],
+      "roles": [],
+      "members": []
+    },
+    "exempt_admins": false
+  },
+  "1414879000769200132": {
+    "protections": {
+      "스팸 감지": false,
+      "도배 방지": false,
+      "링크 차단": false,
+      "관리자 권한 부여 차단": false,
+      "채널 대량 생성 방지": false,
+      "채널 대량 삭제 방지": false,
+      "역할 대량 생성 방지": false,
+      "역할 대량 삭제 방지": false,
+      "레이드 감지": false,
+      "대량 멘션 감지": false,
+      "@everyone/@here 방지": false,
+      "개인정보 차단": false
+    },
+    "punishment": {
+      "types": [
+        "DM 경고"
+      ],
+      "criteria": {
+        "스팸 감지": {
+          "count": 10,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "도배 방지": {
+          "count": 7,
+          "seconds": 5,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "링크 차단": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "관리자 권한 부여 차단": {
+          "count": 1,
+          "seconds": 60,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "채널 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "채널 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "레이드 감지": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "대량 멘션 감지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "@everyone/@here 방지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "개인정보 차단": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        }
+      }
+    },
+    "verification": {
+      "enabled": false,
+      "captcha_channel": null,
+      "verified_role": null
+    },
+    "log_channel": null,
+    "protect_log_channel": null,
+    "warn_log_channel": null,
+    "punishment_log_channel": null,
+    "notification_channel": 1494334824285212843,
+    "warnings": {},
+    "punishments": {},
+    "whitelist": {
+      "channels": [],
+      "roles": [],
+      "members": []
+    },
+    "exempt_admins": false
+  },
+  "1489877814277832858": {
+    "protections": {
+      "스팸 감지": false,
+      "도배 방지": false,
+      "링크 차단": false,
+      "관리자 권한 부여 차단": false,
+      "채널 대량 생성 방지": false,
+      "채널 대량 삭제 방지": false,
+      "역할 대량 생성 방지": false,
+      "역할 대량 삭제 방지": false,
+      "레이드 감지": false,
+      "대량 멘션 감지": false,
+      "@everyone/@here 방지": false,
+      "개인정보 차단": false
+    },
+    "punishment": {
+      "types": [
+        "DM 경고"
+      ],
+      "criteria": {
+        "스팸 감지": {
+          "count": 10,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "도배 방지": {
+          "count": 7,
+          "seconds": 5,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "링크 차단": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "관리자 권한 부여 차단": {
+          "count": 1,
+          "seconds": 60,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "채널 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "채널 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "레이드 감지": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "대량 멘션 감지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "@everyone/@here 방지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "개인정보 차단": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        }
+      }
+    },
+    "verification": {
+      "enabled": false,
+      "captcha_channel": null,
+      "verified_role": null
+    },
+    "log_channel": null,
+    "protect_log_channel": null,
+    "warn_log_channel": null,
+    "punishment_log_channel": null,
+    "notification_channel": 1494334826101342289,
+    "warnings": {},
+    "punishments": {},
+    "whitelist": {
+      "channels": [],
+      "roles": [],
+      "members": []
+    },
+    "exempt_admins": false
+  },
+  "1474219728582217829": {
+    "protections": {
+      "스팸 감지": false,
+      "도배 방지": false,
+      "링크 차단": false,
+      "관리자 권한 부여 차단": false,
+      "채널 대량 생성 방지": false,
+      "채널 대량 삭제 방지": false,
+      "역할 대량 생성 방지": false,
+      "역할 대량 삭제 방지": false,
+      "레이드 감지": false,
+      "대량 멘션 감지": false,
+      "@everyone/@here 방지": false,
+      "개인정보 차단": false
+    },
+    "punishment": {
+      "types": [
+        "DM 경고"
+      ],
+      "criteria": {
+        "스팸 감지": {
+          "count": 10,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "도배 방지": {
+          "count": 7,
+          "seconds": 5,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "링크 차단": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "관리자 권한 부여 차단": {
+          "count": 1,
+          "seconds": 60,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "채널 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "채널 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 생성 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "역할 대량 삭제 방지": {
+          "count": 3,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "레이드 감지": {
+          "count": 5,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고",
+            "타임아웃"
+          ]
+        },
+        "대량 멘션 감지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "@everyone/@here 방지": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        },
+        "개인정보 차단": {
+          "count": 1,
+          "seconds": 10,
+          "punish_types": [
+            "DM 경고"
+          ]
+        }
+      }
+    },
+    "verification": {
+      "enabled": false,
+      "captcha_channel": null,
+      "verified_role": null
+    },
+    "log_channel": null,
+    "protect_log_channel": null,
+    "warn_log_channel": null,
+    "punishment_log_channel": null,
+    "notification_channel": 1494334827976200373,
+    "warnings": {},
+    "punishments": {},
+    "whitelist": {
+      "channels": [],
+      "roles": [],
+      "members": []
+    },
+    "exempt_admins": false
+  }
+}
